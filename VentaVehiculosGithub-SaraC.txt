@@ -1,0 +1,12 @@
+GitHub: git@github.com:saryCast/ventaVehiculos-m6.git
+
+
+user:sary3@gmail.com !tiene permiso para listar y Agregar
+pass: 12345sary3
+
+
+user:sarycast@mail.com !Sin permisos para agregar
+pass: 12345sary
+
+user: admin
+pass: admin
