@@ -1,4 +1,4 @@
-GitHub: git@github.com:saryCast/ventaVehiculos-m6.git
+GitHub: git@github.com:saryCast/proyecto_vehiculos_django.git
 
 
 user:sary3@gmail.com !tiene permiso para listar y Agregar
